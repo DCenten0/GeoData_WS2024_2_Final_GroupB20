@@ -14,7 +14,7 @@ This repository contains the collaborative work of Daniel Centeno and Tasio Rodr
 <h3>💧 Task 2 - Nitrate Concentration Movie</h3>
 
 * **Data Management:** Integration of nitrate concentration measurements into PostgreSQL/PostGIS.
-* **Temporal Visualization:** Creation of a temporal animation in QGIS showcasing nitrate levels from the 1960s to present.
+* **Temporal Visualization:** Creation of a temporal animation in QGIS showcasing nitrate levels from the 2010s to 2019.
 
 <h3>🌳 Task 3 - Supervised Land Cover Classification</h3>
 
